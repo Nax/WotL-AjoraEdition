@@ -1,2 +1,3 @@
-# WotL-AjoraEdition
-A vanilla modpack for Final Fantasy Tactics: the War of the Lions
+# WotL : Ajora Edition
+
+A modpack for Final Fantasy Tactics : The War of the Lions.

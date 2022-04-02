@@ -1,0 +1,15 @@
+{
+	"scripts" :
+	[
+		{
+			"path" : "Mods/slowdown.lua"
+		},
+		{
+			"options" :
+			{
+				"item_levels" : true
+			},
+			"path" : "Mods/ext-item-ninja.lua"
+		}
+	]
+}
