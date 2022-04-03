@@ -2,14 +2,17 @@
 	"scripts" :
 	[
 		{
-			"path" : "Mods/slowdown.lua"
+			"path" : "TacticsCrafterScripts/Scripts/QoL/Slowdown Fix.lua"
 		},
 		{
 			"options" :
 			{
 				"item_levels" : true
 			},
-			"path" : "Mods/ext-item-ninja.lua"
+			"path" : "TacticsCrafterScripts/Scripts/Extension/Item Extensions - Ninja.lua"
+		},
+		{
+			"path" : "AjoraEdition.lua"
 		}
 	]
 }
